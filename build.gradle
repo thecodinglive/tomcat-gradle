@@ -1,0 +1,7 @@
+apply plugin:'base'
+apply plugin:'idea'
+ant.importBuild 'tomcat/build.xml'
+
+repositories {
+    jcenter()
+}

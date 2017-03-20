@@ -1,0 +1,2 @@
+rootProject.name = 'gradleTomcat'
+include 'tomcat'
